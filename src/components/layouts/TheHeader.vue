@@ -3,7 +3,7 @@
 		<div class="flex flex-wrap flex-row items-center justify-between md:mx-16">
 			<a class="flex title-font font-medium items-center text-gray-900 md:mb-0 text-3xl">
 				<AppProfile class="w-16 mx-2 px-1" />
-				<h1>Usama<span class="text-blue-700">Saeed</span></h1>
+				<h1>Muhammad<span class="text-blue-700">Usama</span></h1>
 			</a>
 		</div>
 		<Navigation />
