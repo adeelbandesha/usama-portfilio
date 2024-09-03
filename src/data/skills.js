@@ -19,11 +19,11 @@ const skills = [
     color: "text-blue-600",
   },
 
-  {
-    type: "frontend",
-    name: "Tailwindcss",
-    svg: "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg",
-  },
+  // {
+  //   type: "frontend",
+  //   name: "Tailwindcss",
+  //   svg: "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg",
+  // },
 
   {
     type: "frontend",
@@ -67,23 +67,23 @@ const skills = [
   //   icon: "fas fa-database",
   //   color: "text-yellow-600",
   // },
-  {
-    type: "backend",
-    name: "ExpressJS",
-    color: "",
-    icon: "fab fa-node-js",
-  },
-  {
-    type: "backend",
-    name: "NodeJS",
-    color: "text-green-800",
-    icon: "fab fa-node",
-  },
-  {
-    type: "backend",
-    name: "MongoDB",
-    svg: "https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg",
-  },
+  // {
+  //   type: "backend",
+  //   name: "ExpressJS",
+  //   color: "",
+  //   icon: "fab fa-node-js",
+  // },
+  // {
+  //   type: "backend",
+  //   name: "NodeJS",
+  //   color: "text-green-800",
+  //   icon: "fab fa-node",
+  // },
+  // {
+  //   type: "backend",
+  //   name: "MongoDB",
+  //   svg: "https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg",
+  // },
   {
     type: "backend",
     name: "Wordpress",

@@ -15,8 +15,8 @@
 				Whatsapp
 			</h2>
 			<p class="leading-relaxed  text-white">
-				<a href="https://wa.me/+923079707175 ">
-					+92-3079707175
+				<a href="https://wa.me/+923436826801 ">
+					+92-3436826801
 				</a>
 			</p>
 		</div>
