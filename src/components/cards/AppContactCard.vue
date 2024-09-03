@@ -38,7 +38,7 @@
 			</h2>
 			<p class="leading-relaxed text-white">
 				<a href="tel:+92436826801">
-					+92-436826801
+					+92-3436826801
 				</a>
 			</p>
 		</div>
